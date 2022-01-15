@@ -1,19 +1,18 @@
 package baek;
 
 import java.io.*;
-import java.util.*;
 
 public class BOJ_17496 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer st = new StringTokenizer(reader.readLine());
-        int N = Integer.parseInt(st.nextToken());
-        int T = Integer.parseInt(st.nextToken());
-        int C = Integer.parseInt(st.nextToken());
-        int P = Integer.parseInt(st.nextToken());
+        String[] st = reader.readLine().split(" ");
+        int N = Integer.parseInt(st[0]);
+        int T = Integer.parseInt(st[1]);
+        int C = Integer.parseInt(st[2]);
+        int P = Integer.parseInt(st[3]);
 
         writer.write((N-1)/T*C*P+"");
-        writer.flush();
+        writer.close();
     }
 }
