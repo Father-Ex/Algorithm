@@ -7,7 +7,7 @@ public class BOJ_4673 {
         int start = 1; //d(n)의 시작점.
                        //self[start]는 반드시 false여야 함(true라면 이전 루프에서 이미 지나갔기 때문)
         int moving = start; //루프중 새로운 d(n)을 담음. 시작은 셀프넘버
-        while(start<10000){
+        while(start<=10000){
             moving = start;
             while (moving <= 10000) { //셀프넘버에서 시작해 10000이하인 d(n)을 모두 구함
                 int tmp = moving;
