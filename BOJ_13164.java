@@ -23,16 +23,16 @@ public class BOJ_13164 {
         for(int i=0; i<N-1; i++){
             gap[i] = height[i+1]-height[i];
         }
-        Arrays.sort(gap);
-        int[] group = new int[K];
-        group[0] = N-K+1;
-        for(int i=1; i<K; i++){
-            group[i] = 1;
-        }
-        int sum = 0;
-        for(int i=0; i<gap.length-K+1; i++){
-            sum += gap[i];
-        }
+        //------------------일반적인 유형
+        //Arrays.sort(gap);
+        //int sum = 0;
+        //for(int i=0; i<gap.length-K+1; i++){
+        //    sum += gap[i];
+        //}
+
+        //------------------스트림 이용
+        int sum = Arrays.stream(gap).parallel().sorted().limit(gap.length-K+1).sum();
+
         writer.write(sum+"");
         writer.flush();
     }
