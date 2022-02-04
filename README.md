@@ -14,7 +14,7 @@
 - [백준 18405 경쟁적 전염](./BOJ_18405.java)
 
 #### Siver2
-- [백준 1260 DFS와 BFS](./BOJ_1260.java)
+- [~~백준 1260 DFS와 BFS~~](./feb_7_dfs_bfs/BOJ_1260.java)
 - [~~백준 18352 특정 거리의 도시 찾기~~](./feb_7_dfs_bfs/BOJ_18352.java)
 
 #### Siver4
