@@ -11,7 +11,7 @@
 - [백준 14502 연구소](./BOJ_14502.java)
 
 #### Siver1
-- [백준 18405 경쟁적 전염](./BOJ_18405.java)
+- [~~백준 18405 경쟁적 전염~~](./feb_7_dfs_bfs/BOJ_18405.java)
 
 #### Siver2
 - [~~백준 1260 DFS와 BFS~~](./feb_7_dfs_bfs/BOJ_1260.java)
