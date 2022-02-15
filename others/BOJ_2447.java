@@ -1,22 +1,20 @@
 package baek.others;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.io.*;
 
 public class BOJ_2447 {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
         int length = Integer.parseInt(reader.readLine());
 
-        printStar(length);
-    }
-    public static void printStar(int length){
         String[] stars = makeStar(length);
         
         for(String tmp:stars){
             System.out.println(tmp);
         }
     }
+
     public static String[] makeStar(int length){
         if(length==3){
             String[] s = {"***","* *","***"};
