@@ -19,7 +19,7 @@
 - [🔎 백준 18310 안테나](https://www.acmicpc.net/problem/18310)
 
 #### Silver 4
-- [🔎 백준 10825 국영수](https://www.acmicpc.net/problem/10825)
+- [🔎 ~~백준 10825 국영수~~](./feb_21_sort/BOJ_10825.java)
 
  ---
 
