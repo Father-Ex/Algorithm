@@ -16,7 +16,7 @@
 
 #### Silver 3
 - [🔎 백준 20186 수 고르기](https://www.acmicpc.net/problem/20186)
-- [🔎 백준 18310 안테나](https://www.acmicpc.net/problem/18310)
+- [🔎 ~~백준 18310 안테나~~](./feb_21_sort/BOJ_18310.java)
 
 #### Silver 4
 - [🔎 ~~백준 10825 국영수~~](./feb_21_sort/BOJ_10825.java)
