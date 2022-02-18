@@ -12,7 +12,7 @@
 - [🔎 프로그래머스 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 
 #### Gold 4
-- [🔎 백준 1715 카드 정렬하기](https://www.acmicpc.net/problem/1715)
+- [🔎 ~~백준 1715 카드 정렬하기~~](./feb_21_sort/BOJ_1715.java)
 
 #### Silver 3
 - [🔎 ~~백준 20186 수 고르기~~](./feb_21_sort/BOJ_20186.java)
