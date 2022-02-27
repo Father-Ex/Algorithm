@@ -18,7 +18,7 @@
 - [🔎 백준 3896 소수 사이 수열](https://www.acmicpc.net/problem/3896)
 
 #### Silver 3
-- [🔎 백준 13702 이상한 술집](https://www.acmicpc.net/problem/13702)
+- [🔎 ~~백준 13702 이상한 술집~~](./feb_28_binary_search/BOJ_13702.java)
 
 #### Silver 4
 - [🔎 ~~백준 10815 숫자 카드~~](./feb_28_binary_search/BOJ_10815.java)
