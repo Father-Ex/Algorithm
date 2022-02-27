@@ -12,7 +12,7 @@
 - [🔎 프로그래머스 가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
 
 #### Gold 5
-- [🔎 백준 2110 공유기 설치](https://www.acmicpc.net/problem/2110)
+- [🔎 ~~백준 2110 공유기 설치~~](./feb_28_binary_search/BOJ_2110.java)
 
 #### Silver 1
 - [🔎 ~~백준 3896 소수 사이 수열~~](./feb_28_binary_search/BOJ_3896.java)
