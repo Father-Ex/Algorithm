@@ -15,7 +15,7 @@
 - [🔎 백준 2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 
 #### Silver 1
-- [🔎 백준 3896 소수 사이 수열](https://www.acmicpc.net/problem/3896)
+- [🔎 ~~백준 3896 소수 사이 수열~~](./feb_28_binary_search/BOJ_3896.java)
 
 #### Silver 3
 - [🔎 ~~백준 13702 이상한 술집~~](./feb_28_binary_search/BOJ_13702.java)
