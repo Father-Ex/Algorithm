@@ -16,7 +16,7 @@
 - [🔎 백준 14495 피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)
 
 #### Bronze 1
-- [🔎 백준 2748 피보나치수 2](https://www.acmicpc.net/problem/2748)
+- [🔎 ~~백준 2748 피보나치수 2~~](./march_7_dynamic_programming/BOJ_2748.java)
 - [🔎 ~~백준 9625 BABBA~~](./march_7_dynamic_programming/BOJ_9625.java)
 
  ---
