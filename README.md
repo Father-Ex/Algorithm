@@ -6,6 +6,21 @@
 
  ---
 
+## ✏️ 22년 3월 7일
+
+#### Silver 2
+- [🔎 백준 18353 병사 배치하기](https://www.acmicpc.net/problem/18353)
+
+#### Silver 3
+- [🔎 백준 14501 퇴사](https://www.acmicpc.net/problem/14501)
+- [🔎 백준 14495 피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)
+
+#### Bronze 1
+- [🔎 백준 2748 피보나치수 2](https://www.acmicpc.net/problem/2748)
+- [🔎 ~~백준 9625 BABBA~~](./march_7_dynamic_programming/BOJ_9625.java)
+
+ ---
+
 ## ✏️ 22년 2월 28일
 
 #### 프로그래머스
