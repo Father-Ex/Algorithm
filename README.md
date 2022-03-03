@@ -13,7 +13,7 @@
 
 #### Silver 3
 - [🔎 백준 14501 퇴사](https://www.acmicpc.net/problem/14501)
-- [🔎 백준 14495 피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)
+- [🔎 ~~백준 14495 피보나치 비스무리한 수열~~](./march_7_dynamic_programming/BOJ_14495.java)
 
 #### Bronze 1
 - [🔎 ~~백준 2748 피보나치수 2~~](./march_7_dynamic_programming/BOJ_2748.java)
