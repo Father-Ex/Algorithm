@@ -9,7 +9,7 @@
 ## ✏️ 22년 2월 28일
 
 #### 프로그래머스
-- [🔎 프로그래머스 가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
+- [🔎 ~~프로그래머스 가사검색~~](./feb_28_binary_search/PGMS_lyricsSearch.java)
 
 #### Gold 5
 - [🔎 ~~백준 2110 공유기 설치~~](./feb_28_binary_search/BOJ_2110.java)
