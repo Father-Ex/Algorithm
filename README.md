@@ -12,7 +12,7 @@
 - [🔎 백준 18353 병사 배치하기](https://www.acmicpc.net/problem/18353)
 
 #### Silver 3
-- [🔎 백준 14501 퇴사](https://www.acmicpc.net/problem/14501)
+- [🔎 ~~백준 14501 퇴사~~](./march_7_dynamic_programming/BOJ_14501.java)
 - [🔎 ~~백준 14495 피보나치 비스무리한 수열~~](./march_7_dynamic_programming/BOJ_14495.java)
 
 #### Bronze 1
