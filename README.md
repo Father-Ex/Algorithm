@@ -9,7 +9,7 @@
 ## ✏️ 22년 3월 7일
 
 #### Silver 2
-- [🔎 백준 18353 병사 배치하기](https://www.acmicpc.net/problem/18353)
+- [🔎 ~~백준 18353 병사 배치하기~~](./march_7_dynamic_programming/BOJ_18353.java)
 
 #### Silver 3
 - [🔎 ~~백준 14501 퇴사~~](./march_7_dynamic_programming/BOJ_14501.java)
