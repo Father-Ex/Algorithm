@@ -15,7 +15,7 @@
 - [🔎 백준 10819차이를 최대로](https://www.acmicpc.net/problem/10819)
 
 #### Silver 3
-- [🔎 백준 10974모든 순열](https://www.acmicpc.net/problem/10974)
+- [🔎 ~~백준 10974모든 순열~~](./march_14_brute/BOJ_10974.java)
 
 #### Bronze 1
 - [🔎 ~~백준 2851 슈퍼마리오~~](./march_14_brute/BOJ_2851.java)
