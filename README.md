@@ -6,6 +6,22 @@
 
  ---
 
+## ✏️ 22년 3월 14일
+
+#### 프로그래머스
+- [🔎 프로그래머스 Level2 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+
+#### Silver 2
+- [🔎 백준 10819차이를 최대로](https://www.acmicpc.net/problem/10819)
+
+#### Silver 3
+- [🔎 백준 10974모든 순열](https://www.acmicpc.net/problem/10974)
+
+#### Bronze 1
+- [🔎 ~~백준 2851 슈퍼마리오~~](./march_14_brute/BOJ_2851.java)
+
+ ---
+
 ## ✏️ 22년 3월 7일
 
 #### Silver 2
