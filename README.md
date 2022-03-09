@@ -12,7 +12,7 @@
 - [🔎 프로그래머스 Level2 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 
 #### Silver 2
-- [🔎 백준 10819차이를 최대로](https://www.acmicpc.net/problem/10819)
+- [🔎 ~~백준 10819차이를 최대로~~](./march_14_brute/BOJ_10819.java)
 
 #### Silver 3
 - [🔎 ~~백준 10974모든 순열~~](./march_14_brute/BOJ_10974.java)
