@@ -9,7 +9,7 @@
 ## ✏️ 22년 3월 14일
 
 #### 프로그래머스
-- [🔎 프로그래머스 Level2 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+- [🔎 ~~프로그래머스 Level2 소수 찾기~~](./march_14_brute/PGMS_FindPrime.java)
 
 #### Silver 2
 - [🔎 ~~백준 10819차이를 최대로~~](./march_14_brute/BOJ_10819.java)
