@@ -4,6 +4,7 @@
 
 #### 프로그래머스
 - [🔎 프로그래머스 Level1 신규 아이디 추천](./others/PGMS_new_id_recommend.java)
+- [🔎 프로그래머스 주차 요금 계산(미완료)](https://programmers.co.kr/learn/courses/30/lessons/92341)
 
 #### Gold 3
 - [🔎 백준 10942 팰린드롬?](./others/BOJ_10942.java)
@@ -20,9 +21,9 @@
 ## ✏️ 22년 3월 21일
 
 #### 프로그래머스
-- [🔎 프로그래머스 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
-- [🔎 프로그래머스 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
-- [🔎 프로그래머스 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
+- [🔎 프로그래머스 올바른 괄호(미완료)](https://programmers.co.kr/learn/courses/30/lessons/12909)
+- [🔎 프로그래머스 키패드 누르기](./march_21_impl/PGMS_keypad.java)
+- [🔎 프로그래머스 스킬트리(미완료)](https://programmers.co.kr/learn/courses/30/lessons/49993)
 
 #### Silver3
 - [🔎 백준 1244 스위치 켜고 끄기](./march_21_impl/BOJ_1244.java)
