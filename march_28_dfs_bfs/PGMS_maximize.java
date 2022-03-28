@@ -3,17 +3,15 @@ package baek.march_28_dfs_bfs;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PGMS_maximize {
-    static char[] ocs = {'*', '+', '-'};
-    static char[] arr = new char[3];
-    static boolean[] visited = new boolean[3];
-    static List<Long> answers = new ArrayList<>();
-    static String[] numStr;
-    static String operators;
-    public static void main(String[] args) throws Exception {
-        System.out.println(solution("100-200*300-500+20"));
-    }
-    static long solution(String expression) {
+class Solution {
+    char[] ocs = {'*', '+', '-'};
+    char[] arr = new char[3];
+    boolean[] visited = new boolean[3];
+    List<Long> answers = new ArrayList<>();
+    String[] numStr;
+    String operators;
+
+    public long solution(String expression) {
         long answer = 0;
         String reg = "[\\+\\-\\*]";
         numStr = expression.split(reg);
@@ -26,9 +24,9 @@ public class PGMS_maximize {
         }
         return answer;
     }
-    static void make(int idx){
+    void make(int idx){
         if(idx>=3){
-            List<Long> nums = new ArrayList<>(numStr.length); //분리한 숫자들
+            List<Long> nums = new ArrayList<>(numStr.length);
             String otmp = operators;
             for(String tmp:numStr){
                 nums.add(Long.parseLong(tmp));
