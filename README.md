@@ -22,7 +22,7 @@
 
 #### 프로그래머스
 - [🔎 프로그래머스 경주로 건설(미완료)](https://programmers.co.kr/learn/courses/30/lessons/67259)
-- [🔎 프로그래머스 수식 최대화(미완료)](https://programmers.co.kr/learn/courses/30/lessons/67257)
+- [🔎 프로그래머스 수식 최대화](./march_28_dfs_bfs/PGMS_maximize.java)
 
 #### Silver 2
 - [🔎 백준 2644 촌수 계산](./march_28_dfs_bfs/BOJ_2644.java)
