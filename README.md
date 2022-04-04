@@ -21,7 +21,7 @@
 ## ✏️ 22년 3월 28일
 
 #### 프로그래머스
-- [🔎 프로그래머스 경주로 건설(미완료)](https://programmers.co.kr/learn/courses/30/lessons/67259)
+- [🔎 프로그래머스 경주로 건설](./march_28_dfs_bfs/PGMS_build_track.java)
 - [🔎 프로그래머스 수식 최대화](./march_28_dfs_bfs/PGMS_maximize.java)
 
 #### Silver 2
