@@ -5,6 +5,7 @@
 
 #### 프로그래머스 LV3
 - [🔎 프로그래머스 추석 트래픽](./others/PGMS/PGMS_choosuck_traffic.java)
+- [🔎 프로그래머스 N으로 표현](./others/PGMS/PGMS_express_with_N.java)
 
 #### Gold 3
 - [🔎 백준 10942 팰린드롬?](./others/BOJ_10942.java)
