@@ -10,6 +10,7 @@
 - [🔎 프로그래머스 정수 삼각형](./others/PGMS/PGMS_int_triangle.java)
 - [🔎 프로그래머스 셔틀버스](./others/PGMS/PGMS_shuttle.java)
 - [🔎 프로그래머스 2xn 타일링](./others/PGMS/PGMS_2xn_tile.java)
+- [🔎 프로그래머스 불량 사용자](./others/PGMS/PGMS_bad_user.java)
 
 #### Gold 3
 - [🔎 백준 10942 팰린드롬?](./others/BOJ_10942.java)
