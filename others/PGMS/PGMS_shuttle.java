@@ -25,7 +25,8 @@ class Solution {
             }
         }
         if(cnt==m){
-            answer = String.format("%02d:%02d", (times[idx-1]-1)/60, (times[idx-1]-1)%60);         }else{
+            answer = String.format("%02d:%02d", (times[idx-1]-1)/60, (times[idx-1]-1)%60);
+        }else{
             answer = String.format("%02d:%02d", lastTime/60, lastTime%60);
         }
         
