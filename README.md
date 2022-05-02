@@ -11,6 +11,7 @@
 - [🔎 프로그래머스 셔틀버스](./others/PGMS/PGMS_shuttle.java)
 - [🔎 프로그래머스 2xn 타일링](./others/PGMS/PGMS_2xn_tile.java)
 - [🔎 프로그래머스 불량 사용자](./others/PGMS/PGMS_bad_user.java)
+- [🔎 프로그래머스 디스크 컨트롤러](./others/PGMS/PGMS_disk_controller.java)
 
 #### Gold 3
 - [🔎 백준 10942 팰린드롬?](./others/BOJ_10942.java)
